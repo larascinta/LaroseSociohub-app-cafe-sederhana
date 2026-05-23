@@ -12,14 +12,14 @@
 ## 📸 Screenshots
 Berikut adalah tampilan lengkap antarmuka aplikasi Larose Sociohub:
 
-| Edit Profil (2) | Edit Profil (1) | Profil Cafe |
+| Edit Profil (2) | Edit Profil (1) | Profil Cafe (2) |
 |:---:|:---:|:---:|
 | ![SS1](ss_larose_1.jpg) | ![SS2](ss_larose_2.jpg) | ![SS3](ss_larose_3.jpg) |
-| **Detail Menu (2)** | **Rating System** | **Profil Cafe** |
+| **Profil Cafe (1)** | **Detail Menu (2)** | **Detail Menu (1)** |
 | ![SS4](ss_larose_4.jpg) | ![SS5](ss_larose_5.jpg) | ![SS6](ss_larose_6.jpg) |
-| **Edit Profil (1)** | **Edit Profil (2)** | **Dialog/Pop-up** |
+| **Katalog Menu (2)** | **Katalog Menu (1)** | **Home Screen** |
 | ![SS7](ss_larose_7.jpg) | ![SS8](ss_larose_8.jpg) | ![SS9](ss_larose_9.jpg) |
-| **Halaman Lain** | | |
+| **Splash Screen** | | |
 | ![SS10](ss_larose_10.jpg) | | |
 
 ## 🛠️ Teknologi yang Digunakan
